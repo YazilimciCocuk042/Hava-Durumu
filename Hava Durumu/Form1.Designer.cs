@@ -145,11 +145,11 @@ namespace Hava_Durumu
             this.guna2HtmlLabel1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.guna2HtmlLabel1.ForeColor = System.Drawing.Color.White;
             this.guna2HtmlLabel1.IsSelectionEnabled = false;
-            this.guna2HtmlLabel1.Location = new System.Drawing.Point(120, 361);
+            this.guna2HtmlLabel1.Location = new System.Drawing.Point(130, 359);
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(163, 23);
+            this.guna2HtmlLabel1.Size = new System.Drawing.Size(145, 23);
             this.guna2HtmlLabel1.TabIndex = 8;
-            this.guna2HtmlLabel1.Text = "@yazilimci.cocuk042";
+            this.guna2HtmlLabel1.Text = "@yazilimci.cocuk0";
             this.guna2HtmlLabel1.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
             this.guna2HtmlLabel1.Click += new System.EventHandler(this.guna2HtmlLabel1_Click);
             // 
